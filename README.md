@@ -4,5 +4,5 @@
 
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+![Finished App](https://github.com/nikhil914/Dice/blob/master/dice.gif)
 
